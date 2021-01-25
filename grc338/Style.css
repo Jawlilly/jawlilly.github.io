@@ -1,0 +1,21 @@
+/* CSS DOCUMENT */
+h1 {
+	color: rgb(50, 100, 255);
+	font-size: 3em;
+	
+}
+h2 {
+	color: rgb(50,150,50);
+}
+h3 {
+	text-transform: uppercase;
+	margin: 3em 1em 1.5em 0.5em;
+	font-family: sans-serif;
+	color: rgb(50,100,255);
+}
+p {
+	
+ul {
+	padding: 0;
+	margin: 3em 1em 1.5em 0em;
+}
